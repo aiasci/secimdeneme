@@ -1,0 +1,602 @@
+---
+title: Türkiye Seçim Analizi
+output:
+  rmdformats::robobook:
+    highlight: kate
+---
+# Türkiye
+
+<img src="https://ontheworldmap.com/turkey/map-of-turkey.jpg" >
+
+::: {style="text-align: justify;"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum nisi a urna ornare varius. Quisque aliquam dictum nunc, in viverra orci placerat a. Praesent vitae dapibus urna. Nunc malesuada iaculis blandit. Mauris ut tellus laoreet, bibendum est id, placerat dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ut finibus erat. Donec nec lectus ac ipsum ullamcorper ornare. Vivamus sed accumsan orci. Etiam tempus sodales lectus, non tristique felis sollicitudin in. Praesent posuere tincidunt lectus sit amet viverra. Nullam non metus laoreet, consectetur augue eget, suscipit ante. Fusce lacus neque, interdum nec vehicula ut, vulputate vel felis.
+:::
+
+
+::: {style="text-align: justify;"}
+Mauris nec semper magna. Aliquam pulvinar rhoncus lectus, ac eleifend lectus. Sed vel nisl vel erat finibus interdum. Nulla at dui in dui tincidunt facilisis. Sed diam tortor, aliquet viverra nisl in, mattis venenatis ex. Vestibulum in tempor massa, vel malesuada lacus. Vestibulum erat erat, interdum nec augue eu, efficitur aliquam sapien. Phasellus fringilla augue vitae ex interdum, ut porta lacus pellentesque. Aliquam dolor nulla, cursus ac erat fermentum, ullamcorper congue orci. Ut scelerisque ipsum quam, sed hendrerit justo volutpat et. Donec vitae arcu ligula. Vivamus vel nisi neque. Nulla iaculis posuere nunc, at feugiat augue tristique sit amet.
+:::
+
+
+::: {style="text-align: justify;"}
+Quisque vehicula dolor quis elit porttitor, eget accumsan mi dictum. Quisque lobortis arcu orci, sit amet condimentum dui blandit eget. Nullam egestas eros neque, a auctor augue rutrum in. Proin at euismod neque. Aliquam at eros in ipsum vulputate pretium. Nam luctus lacus mollis lorem tincidunt, quis euismod sem fermentum. Donec sodales leo ipsum, sit amet dignissim sem feugiat quis.
+:::
+
+
+::: {style="text-align: justify;"}
+Nunc venenatis sapien id lacus rutrum tincidunt. Suspendisse ac pulvinar lorem, eleifend vestibulum velit. Aliquam faucibus tempor eleifend. Aenean tempus ante in sem eleifend congue. Curabitur ultrices odio id malesuada lobortis. In ac odio facilisis, finibus nulla ut, laoreet turpis. Aenean nec ultrices neque. Pellentesque ac dolor mattis, pulvinar turpis vel, molestie mi. In hac habitasse platea dictumst. Maecenas non nibh sagittis, eleifend sapien vitae, eleifend enim. Nunc pulvinar velit vitae odio suscipit, quis ultrices dui fringilla.
+:::
+
+
+::: {style="text-align: justify;"}
+Nam imperdiet interdum accumsan. Morbi blandit augue est, ac placerat ex dignissim sit amet. Duis lorem nunc, pulvinar sit amet leo facilisis, sagittis dictum magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus id egestas nisi, nec consectetur ipsum. Aliquam id urna vitae lacus tempus feugiat. Etiam convallis lacus enim, a sagittis purus interdum ac. Nam hendrerit commodo tellus, id suscipit mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tristique bibendum sollicitudin. Proin eleifend eros euismod mauris lobortis tempor. Nulla feugiat ut sapien eu commodo. Integer turpis libero, hendrerit sed risus nec, ultricies porttitor magna. 
+:::
+
+# İller
+
+
+## ADANA
+
+ <a href="ADANA">ADANA</a> 
+
+<br>
+
+
+## ADIYAMAN
+
+ <a href="ADIYAMAN">ADIYAMAN</a> 
+
+<br>
+
+
+## AFYONKARAHİSAR
+
+ <a href="AFYONKARAHİSAR">AFYONKARAHİSAR</a> 
+
+<br>
+
+
+## AĞRI
+
+ <a href="AĞRI">AĞRI</a> 
+
+<br>
+
+
+## AKSARAY
+
+ <a href="AKSARAY">AKSARAY</a> 
+
+<br>
+
+
+## AMASYA
+
+ <a href="AMASYA">AMASYA</a> 
+
+<br>
+
+
+## ANKARA
+
+ <a href="ANKARA">ANKARA</a> 
+
+<br>
+
+
+## ANTALYA
+
+ <a href="ANTALYA">ANTALYA</a> 
+
+<br>
+
+
+## ARDAHAN
+
+ <a href="ARDAHAN">ARDAHAN</a> 
+
+<br>
+
+
+## ARTVİN
+
+ <a href="ARTVİN">ARTVİN</a> 
+
+<br>
+
+
+## AYDIN
+
+ <a href="AYDIN">AYDIN</a> 
+
+<br>
+
+
+## BALIKESİR
+
+ <a href="BALIKESİR">BALIKESİR</a> 
+
+<br>
+
+
+## BARTIN
+
+ <a href="BARTIN">BARTIN</a> 
+
+<br>
+
+
+## BATMAN
+
+ <a href="BATMAN">BATMAN</a> 
+
+<br>
+
+
+## BAYBURT
+
+ <a href="BAYBURT">BAYBURT</a> 
+
+<br>
+
+
+## BİLECİK
+
+ <a href="BİLECİK">BİLECİK</a> 
+
+<br>
+
+
+## BİNGÖL
+
+ <a href="BİNGÖL">BİNGÖL</a> 
+
+<br>
+
+
+## BİTLİS
+
+ <a href="BİTLİS">BİTLİS</a> 
+
+<br>
+
+
+## BOLU
+
+ <a href="BOLU">BOLU</a> 
+
+<br>
+
+
+## BURDUR
+
+ <a href="BURDUR">BURDUR</a> 
+
+<br>
+
+
+## BURSA
+
+ <a href="BURSA">BURSA</a> 
+
+<br>
+
+
+## ÇANAKKALE
+
+ <a href="ÇANAKKALE">ÇANAKKALE</a> 
+
+<br>
+
+
+## ÇANKIRI
+
+ <a href="ÇANKIRI">ÇANKIRI</a> 
+
+<br>
+
+
+## ÇORUM
+
+ <a href="ÇORUM">ÇORUM</a> 
+
+<br>
+
+
+## DENİZLİ
+
+ <a href="DENİZLİ">DENİZLİ</a> 
+
+<br>
+
+
+## DİYARBAKIR
+
+ <a href="DİYARBAKIR">DİYARBAKIR</a> 
+
+<br>
+
+
+## DÜZCE
+
+ <a href="DÜZCE">DÜZCE</a> 
+
+<br>
+
+
+## EDİRNE
+
+ <a href="EDİRNE">EDİRNE</a> 
+
+<br>
+
+
+## ELAZIĞ
+
+ <a href="ELAZIĞ">ELAZIĞ</a> 
+
+<br>
+
+
+## ERZİNCAN
+
+ <a href="ERZİNCAN">ERZİNCAN</a> 
+
+<br>
+
+
+## ERZURUM
+
+ <a href="ERZURUM">ERZURUM</a> 
+
+<br>
+
+
+## ESKİŞEHİR
+
+ <a href="ESKİŞEHİR">ESKİŞEHİR</a> 
+
+<br>
+
+
+## GAZİANTEP
+
+ <a href="GAZİANTEP">GAZİANTEP</a> 
+
+<br>
+
+
+## GİRESUN
+
+ <a href="GİRESUN">GİRESUN</a> 
+
+<br>
+
+
+## GÜMÜŞHANE
+
+ <a href="GÜMÜŞHANE">GÜMÜŞHANE</a> 
+
+<br>
+
+
+## HAKKARİ
+
+ <a href="HAKKARİ">HAKKARİ</a> 
+
+<br>
+
+
+## HATAY
+
+ <a href="HATAY">HATAY</a> 
+
+<br>
+
+
+## IĞDIR
+
+ <a href="IĞDIR">IĞDIR</a> 
+
+<br>
+
+
+## ISPARTA
+
+ <a href="ISPARTA">ISPARTA</a> 
+
+<br>
+
+
+## İSTANBUL
+
+ <a href="İSTANBUL">İSTANBUL</a> 
+
+<br>
+
+
+## İZMİR
+
+ <a href="İZMİR">İZMİR</a> 
+
+<br>
+
+
+## KAHRAMANMARAŞ
+
+ <a href="KAHRAMANMARAŞ">KAHRAMANMARAŞ</a> 
+
+<br>
+
+
+## KARABÜK
+
+ <a href="KARABÜK">KARABÜK</a> 
+
+<br>
+
+
+## KARAMAN
+
+ <a href="KARAMAN">KARAMAN</a> 
+
+<br>
+
+
+## KARS
+
+ <a href="KARS">KARS</a> 
+
+<br>
+
+
+## KASTAMONU
+
+ <a href="KASTAMONU">KASTAMONU</a> 
+
+<br>
+
+
+## KAYSERİ
+
+ <a href="KAYSERİ">KAYSERİ</a> 
+
+<br>
+
+
+## KIRIKKALE
+
+ <a href="KIRIKKALE">KIRIKKALE</a> 
+
+<br>
+
+
+## KIRKLARELİ
+
+ <a href="KIRKLARELİ">KIRKLARELİ</a> 
+
+<br>
+
+
+## KIRŞEHİR
+
+ <a href="KIRŞEHİR">KIRŞEHİR</a> 
+
+<br>
+
+
+## KİLİS
+
+ <a href="KİLİS">KİLİS</a> 
+
+<br>
+
+
+## KOCAELİ
+
+ <a href="KOCAELİ">KOCAELİ</a> 
+
+<br>
+
+
+## KONYA
+
+ <a href="KONYA">KONYA</a> 
+
+<br>
+
+
+## KÜTAHYA
+
+ <a href="KÜTAHYA">KÜTAHYA</a> 
+
+<br>
+
+
+## MALATYA
+
+ <a href="MALATYA">MALATYA</a> 
+
+<br>
+
+
+## MANİSA
+
+ <a href="MANİSA">MANİSA</a> 
+
+<br>
+
+
+## MARDİN
+
+ <a href="MARDİN">MARDİN</a> 
+
+<br>
+
+
+## MERSİN
+
+ <a href="MERSİN">MERSİN</a> 
+
+<br>
+
+
+## MUĞLA
+
+ <a href="MUĞLA">MUĞLA</a> 
+
+<br>
+
+
+## MUŞ
+
+ <a href="MUŞ">MUŞ</a> 
+
+<br>
+
+
+## NEVŞEHİR
+
+ <a href="NEVŞEHİR">NEVŞEHİR</a> 
+
+<br>
+
+
+## NİĞDE
+
+ <a href="NİĞDE">NİĞDE</a> 
+
+<br>
+
+
+## ORDU
+
+ <a href="ORDU">ORDU</a> 
+
+<br>
+
+
+## OSMANİYE
+
+ <a href="OSMANİYE">OSMANİYE</a> 
+
+<br>
+
+
+## RİZE
+
+ <a href="RİZE">RİZE</a> 
+
+<br>
+
+
+## SAKARYA
+
+ <a href="SAKARYA">SAKARYA</a> 
+
+<br>
+
+
+## SAMSUN
+
+ <a href="SAMSUN">SAMSUN</a> 
+
+<br>
+
+
+## SİİRT
+
+ <a href="SİİRT">SİİRT</a> 
+
+<br>
+
+
+## SİNOP
+
+ <a href="SİNOP">SİNOP</a> 
+
+<br>
+
+
+## SİVAS
+
+ <a href="SİVAS">SİVAS</a> 
+
+<br>
+
+
+## ŞANLIURFA
+
+ <a href="ŞANLIURFA">ŞANLIURFA</a> 
+
+<br>
+
+
+## ŞIRNAK
+
+ <a href="ŞIRNAK">ŞIRNAK</a> 
+
+<br>
+
+
+## TEKİRDAĞ
+
+ <a href="TEKİRDAĞ">TEKİRDAĞ</a> 
+
+<br>
+
+
+## TOKAT
+
+ <a href="TOKAT">TOKAT</a> 
+
+<br>
+
+
+## TRABZON
+
+ <a href="TRABZON">TRABZON</a> 
+
+<br>
+
+
+## TUNCELİ
+
+ <a href="TUNCELİ">TUNCELİ</a> 
+
+<br>
+
+
+## UŞAK
+
+ <a href="UŞAK">UŞAK</a> 
+
+<br>
+
+
+## VAN
+
+ <a href="VAN">VAN</a> 
+
+<br>
+
+
+## YALOVA
+
+ <a href="YALOVA">YALOVA</a> 
+
+<br>
+
+
+## YOZGAT
+
+ <a href="YOZGAT">YOZGAT</a> 
+
+<br>
+
+
+## ZONGULDAK
+
+ <a href="ZONGULDAK">ZONGULDAK</a> 
+
+<br>

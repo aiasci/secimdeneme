@@ -6,7 +6,9 @@ output:
 ---
 # "Teki̇rdağ
 
-<img src="https://ontheworldmap.com/turkey/map-of-turkey.jpg" >
+<img src="https://ontheworldmap.com/turkey/map-of-turkey.jpg" ><br>
+ <a href="https://aiasci.github.io/secimdeneme/">Ana Sayfaya Geri Dön</a> <br>
+
 
 ::: {style="text-align: justify;"}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum nisi a urna ornare varius. Quisque aliquam dictum nunc, in viverra orci placerat a. Praesent vitae dapibus urna. Nunc malesuada iaculis blandit. Mauris ut tellus laoreet, bibendum est id, placerat dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ut finibus erat. Donec nec lectus ac ipsum ullamcorper ornare. Vivamus sed accumsan orci. Etiam tempus sodales lectus, non tristique felis sollicitudin in. Praesent posuere tincidunt lectus sit amet viverra. Nullam non metus laoreet, consectetur augue eget, suscipit ante. Fusce lacus neque, interdum nec vehicula ut, vulputate vel felis.
